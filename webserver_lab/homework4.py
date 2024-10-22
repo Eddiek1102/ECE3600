@@ -1,7 +1,7 @@
 from socket import * 
 import sys 
 
-##### http://192.168.1.155:6770/HelloWorld.html 
+##### http://********/HelloWorld.html 
 ##### 
 
 serverSocket = socket(AF_INET, SOCK_STREAM) 
